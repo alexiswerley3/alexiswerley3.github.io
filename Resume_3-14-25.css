@@ -1,0 +1,90 @@
+body
+{
+	font-family:Garamond;
+	background-color:#FFFFFF;
+	color:#393939;
+	margin: 0 auto;
+	text-align: center;
+	width:595px;
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+h1
+{
+	font-family:Frutiger;
+	font-size: 1.5rem;
+	color:#6082B6;
+}
+ul
+{
+	list-style: inside;
+}
+li
+{
+	margin-top: 5px;
+}
+h1.Title
+{
+	padding-top:25px;
+	font-size:1.7rem;
+}
+hr.Title
+{
+	border:1.8px solid #B0C4DE;
+	width: 70%;
+}
+div.Subtitle
+{
+	font-size: 0.8rem;
+}
+div.EduHead
+{
+	font-weight: bold;
+	margin-top: 15px;
+	font-size: 0.8rem;
+}
+div.EduBody
+{
+	font-size: 0.7rem;
+}
+div.Work
+{
+	border-left: 2px solid #B0C4DE;
+	margin-left:2%;
+}
+div.WorkHead
+{
+	font-weight: bold;
+	margin-top: 15px;
+	font-size: 0.9rem;
+	text-align: left;
+	margin-left: 18px;
+	margin-right:18px;
+}
+div.WorkBody
+{
+	font-size: 0.62rem;
+	text-align: left;
+	margin-left: 18px;
+	margin-right:18px;
+}
+div.EduSkill
+{
+	display:flex;
+	flex-direction: row;
+	margin-left:5%;
+}
+div.Edu
+{
+	width:45%;
+	diplay:flex;
+}
+div.Skills
+{
+	display: flex;
+	flex-direction: row;
+}
+div.Skills li
+{
+	list-style-type: none;
+	font-size: 0.8rem;
+}
